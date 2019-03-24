@@ -2,4 +2,5 @@
 def display-rainbow(colors)
 
 
-colors = []
+colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
+
